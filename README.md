@@ -1,8 +1,7 @@
 Laravel DB Normalizer
 =====================
 
-[![Build Status](https://travis-ci.org/stidges/laravel-db-normalizer.png?branch=master)](https://travis-ci.org/stidges/laravel-db-normalizer)
-
+[![Build Status](https://travis-ci.org/stidges/laravel-db-normalizer.png?branch=master)](https://travis-ci.org/stidges/laravel-db-normalizer) [![Latest Stable Version](https://poser.pugx.org/stidges/laravel-db-normalizer/version.png)](https://packagist.org/packages/stidges/laravel-db-normalizer) [![Latest Unstable Version](https://poser.pugx.org/stidges/laravel-db-normalizer/v/unstable.png)](//packagist.org/packages/stidges/laravel-db-normalizer) [![Total Downloads](https://poser.pugx.org/stidges/laravel-db-normalizer/downloads.png)](https://packagist.org/packages/stidges/laravel-db-normalizer)
 This [Laravel](http://www.laravel.com) package allows you to easily swap out your repository implementations, by providing a unified interface to your database results.
 
 It intercepts your results and turns them into collections and entities. That way, whether you are using Eloquent, the Query Builder or any other implementation, the results will be the same!
