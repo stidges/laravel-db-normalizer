@@ -1,7 +1,7 @@
 Laravel DB Normalizer
 =====================
 
-This [Laravel](http://www.laravel.com) package allows you to easily swap out your repository implementations, by providing a unified interface to your database / persistance layer results.
+This [Laravel](http://www.laravel.com) package allows you to easily swap out your repository implementations, by providing a unified interface to your database layer results.
 
 It intercepts your results and turns them into collections and entities. That way, whether you are using Eloquent, the Query Builder or any other implementation, the results will be the same!
 
